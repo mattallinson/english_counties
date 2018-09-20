@@ -1,0 +1,2 @@
+# Aim of project
+This will eventually be a ML script that generates fictitions English village names. For now there is a fudgy-script that scrapes wikipedia to get all the English village names it has.
