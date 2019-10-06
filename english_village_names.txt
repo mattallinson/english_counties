@@ -1403,7 +1403,6 @@ Goon Gumpas
 Goonhavern
 Gorran Churchtown
 Gorran Haven
-Grade–Ruan
 Grampound
 Grampound Road
 Grampound with Creed
@@ -1415,7 +1414,7 @@ Gunwalloe
 Gweek
 Gwennap
 Gwinear Downs
-Gwinear–Gwithian
+Gwinear Gwithian
 Gwinear
 Gwithian
 Halsetown
@@ -1724,7 +1723,6 @@ Withiel
 Yeolmbridge
 Zelah
 Zennor
-File:Brays Woodland Terraces.jpg
 Aislaby
 Allensford
 Annfield Plain
@@ -15110,7 +15108,6 @@ North Poorton
 Oxbridge
 Pilsdon
 Pleck
-Draft:Puxey
 Redford
 Shitterton
 Stapehill
@@ -15940,6 +15937,7 @@ Littleworth
 Maidensgrove
 Moreton
 Netherton
+Northbrook
 Old Chalford
 Over Kiddington
 Playhatch
@@ -16323,6 +16321,7 @@ Faberstown
 Fairwood
 Farleigh Wick
 Ferne
+Fiddington Sands
 Fifield
 Filands
 Fishers Brook
@@ -16380,6 +16379,7 @@ Knighton
 Lake
 Landfordwood
 Lane End
+Lavington Sands
 Leafield
 Limpers Hill
 Little Chalfield
@@ -16440,6 +16440,7 @@ Newbury
 Norleaze
 Normanton
 North End
+Northbrook
 Norton Ferris
 Notton
 Nursteed
