@@ -18,7 +18,7 @@ textgen = textgenrnn(args.model)
 villages = textgen.generate(args.number, temperature=args.temperature,
 							return_as_list=True)
 
-filename = args.output+'_temp'+str(args.temperature)+'.txt'
+filename = 'output/'_args.output+'_temp'+str(args.temperature)+'.txt'
 
 for ai_village in villages:
 	print(ai_village)
